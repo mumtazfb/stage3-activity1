@@ -376,7 +376,7 @@
     }
 
     .our__services__content {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .repair__icons__div {
@@ -485,7 +485,7 @@
 
     .our__services {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .our__services__content {
