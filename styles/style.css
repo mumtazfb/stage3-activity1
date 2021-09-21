@@ -424,10 +424,6 @@
         text-align: left;
     }
 
-    /* .services {
-        margin-top: 50%!important;
-    } */
-
     .planning {
         display: flex;
         flex-direction: column;
@@ -440,10 +436,6 @@
     .planning-p__div {
         padding: 0;
     }
-
-    /* .hero__line {
-        display: none;
-    } */
 
     .planning p {
         margin-top: 30px;
@@ -461,10 +453,6 @@
 
     .hero__icons {
         display: none;
-    }
-
-    .services {
-        
     }
 
     .hero__div__div h4 {
@@ -497,7 +485,7 @@
 
     .our__services {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .our__services__content {
