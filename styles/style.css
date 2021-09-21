@@ -423,4 +423,116 @@
     .planning p {
         text-align: left;
     }
+
+    /* .services {
+        margin-top: 50%!important;
+    } */
+
+    .planning {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .planning img {
+        width: 100%;
+    }
+
+    .planning-p__div {
+        padding: 0;
+    }
+
+    /* .hero__line {
+        display: none;
+    } */
+
+    .planning p {
+        margin-top: 30px;
+    }
+    
+    .planning h4 {
+        font-size: 1.875rem;
+        margin-top: 30px;
+    }
+    
+    .planning__call{
+        font-size: 1.5rem;
+        margin-bottom: 20px;
+    }
+
+    .hero__icons {
+        display: none;
+    }
+
+    .services {
+        
+    }
+
+    .hero__div__div h4 {
+        font-size: 2.25rem;
+    }
+
+    .hero__div__div h1 {
+        font-size: 3.625rem;
+    }
+
+    .quality {
+        display: flex;
+        flex-direction: column;
+        margin-top: 10%;
+    }
+
+    .quality img {
+        width: 100%;
+    }
+
+    .quality h2 {
+        font-size: 3.125rem;
+    }
+    
+    .quality__second__div {
+        margin-top: 25%;
+        margin-right: 5%;
+        margin-left: 10%;
+    }
+
+    .our__services {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .our__services__content {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .our__services__content p {
+        font-size: 1.125rem;
+        font-style: italic;
+    }
+
+    .repair__icons__div:nth-child(2), .repair__icons__div:nth-child(3){
+        margin-top: 5%;
+    }
+
+    .about__us {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about__us h3 {
+        font-size: 3.75rem;
+    }
+
+    .about__us_second_div, .about__us_img_div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about__us_second_div {
+        margin-left: 10%;
+    }
+
+    .about__us_second_div img {
+        width: 100%;
+    }
 }
